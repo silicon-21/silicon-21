@@ -7,5 +7,5 @@ Links:
 ---------
  - [Resume](shishir_iyer_resume_v33.pdf)
  - [Linkedin](https://www.linkedin.com/in/shishir-iyer-1973ba1a5/)
- - [Website](https://shishir03.github.io)
+ - [Website](https://silicon-21.github.io)
  - [Instagram](https://www.instagram.com/shishiriyer_photography/)
